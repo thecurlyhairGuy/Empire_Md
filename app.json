@@ -28,7 +28,7 @@
     "AUTO_LIKE_EMOJI": {
       "description": "Set custom emoji for auto-like status.",
       "required": true,
-      "value": "💜"
+      "value": "🫩"
     },
     "AUTO_LIKE_STATUS": {
       "description": "Enable auto-like status with true or false.",
@@ -57,7 +57,7 @@
     },
     "MONGODB_URL": {
       "description": "MongoDB connection URL.",
-      "required": true,
+      "required": false,
       "value": "ur mondodb url"
     },
     "OWNER_NAME": {
@@ -68,7 +68,7 @@
     "OWNER_NUMBER": {
       "description": "Put your own number below.",
       "required": true,
-      "value": "ur number"
+      "value": "2349132095836"
     },
     "PREFIX": {
       "description": "Set your prefix. You can use `all | . | .!*`.",
