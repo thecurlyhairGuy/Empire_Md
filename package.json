@@ -10,6 +10,7 @@
  },
  "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
+    "baileys": "6.7.16",
     "adm-zip": "0.5.16",
     "gifted-baileys": "1.5.3",
     "api-dylux": "1.8.5",
